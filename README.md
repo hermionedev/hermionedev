@@ -1,7 +1,7 @@
 Full-Stack Software Engineer with 6+ years
 
 ✅ My Skills
-* React, Vue, Angular, Next.js, Nust.js, Redux, Vux
+* React, Vue, Angular, Next.js, Nuxt.js, Redux, Vux
 * Node/Express, Laravel, Code Igniter, Django
 * MySQL, MongoDB, PostgreSQL, Firebase
 * Typescript, Javascript, PHP, CSS3, HTML5, SCSS/LESS/SASS, JQuery
