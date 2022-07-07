@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**hermionedev/hermionedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer with 6+ years
 
-Here are some ideas to get you started:
+✅ My Skills
+* React, Vue, Angular, Next.js, Nust.js, Redux, Vux
+* Node/Express, Laravel, Code Igniter, Django
+* MySQL, MongoDB, PostgreSQL, Firebase
+* Typescript, Javascript, PHP, CSS3, HTML5, SCSS/LESS/SASS, JQuery
+* Bootstrap UI, Metronic-UI, Material-UI, Semantic-UI, AntDesign, Vuetify
+* Devops, AWS (EC2, S3, RDS, AWS Elastic Beanstalk, LAMDA, SES), Git, Nginx, Docker
+* API integration(AWS, Google API, OAuth, Visa)
+* Blockchain development, Smartcontracts, Solidity, NFT, Web3
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Responsibilities
+* Following the client's requirement in detail and loyal to software workflow, and providing helpful advice to grow your business
+* 24/7 Uptime Support, flexible workflow
+* On-Time, On-Target, On-Budget Delivery of High-Quality Product satisfied to a client's requirement
+* Attention to High-Quality, User-friendly interface, and flexible workflow
