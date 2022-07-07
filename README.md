@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Full-Stack Software Engineer with 6+ years
 
 ✅ My Skills
